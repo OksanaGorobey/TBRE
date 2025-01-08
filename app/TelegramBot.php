@@ -1,7 +1,5 @@
 <?php
 
-require_once(__DIR__ . '/Log.php');
-
 class TelegramBot
 {
     private string $token = '7368479298:AAHP6SehCA3eT51nNAQ_Ho5YULf8VJHACg4';
